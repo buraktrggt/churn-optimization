@@ -120,9 +120,6 @@ Generated outputs include:
 - Scenario-based profit results
 - Final recommended targeting policy
 - Exportable customer targeting lists
-
-These artifacts are designed to be **portfolio- and interview-ready**.
-
 ---
 
 ## How This Would Be Used in Practice
