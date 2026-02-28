@@ -139,12 +139,3 @@ Business parameters (margin, save rate, costs) are **scenario assumptions**, not
 In a real organization, these values would be calibrated with finance, marketing, and retention teams.
 
 ---
-
-## Why This Project Matters
-
-Most churn projects stop at predicting churn.
-
-This project demonstrates how to:
-- translate predictions into decisions
-- align modeling with business objectives
-- design ML systems for real-world deployment
