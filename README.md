@@ -136,6 +136,4 @@ Generated outputs include:
 
 Business parameters (margin, save rate, costs) are **scenario assumptions**, not fixed truths.
 
-In a real organization, these values would be calibrated with finance, marketing, and retention teams.
-
 ---
